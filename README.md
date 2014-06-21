@@ -1,5 +1,5 @@
 Course project for Coursera Getting and Cleaning Data.
-=============================================================
+------------------------
 Instruction:
   1. Please download data from url:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
