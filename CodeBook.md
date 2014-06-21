@@ -1,10 +1,13 @@
 MyTidy data set
 ---------------
-Merges the training and the test sets to create one data set.
-Extracts only the measurements on the mean and standard deviation for each measurement. 
-Uses descriptive activity names to name the activities in the data set
-Appropriately labels the data set with descriptive variable names. 
-Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
+Based on Human Activity Recognition Using Smartphones Data Set 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Merges the training and the test sets and extracts only the measurements on the mean and standard deviation for each measurement. 
+Creates a independent tidy data set with the average of each variable for each activity and each subject. 
+
+We kept the names and significance of the original data. For details, refer to the document features_info.txt contained in the original data set.
+We use descriptive activity names to name the activities in the data set according to oryginal activity labels
 
 
 Lis of variables:
