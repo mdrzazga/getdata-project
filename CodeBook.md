@@ -14,7 +14,7 @@ Automatic procedure for preparation of the described set is contained in the scr
 Instructions on how to obtain a set of original data is located in the file README.md.
 
 
-Lis of variables:
+List of variables:
 
   1. subject
   2. activity
