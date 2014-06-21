@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
   3. run R and set working directory to first level directory of unziped dataset
   4. run run_analysis.R
 
-Script produce two data frames: 
+Script produces two data frames: 
 * myData - selected data from SAMASUNG training and test data 
 * myTidy - independent tidy data set with the average of each variable for each activity and each subject. 
 
