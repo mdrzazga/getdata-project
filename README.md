@@ -11,4 +11,4 @@ Script produce two data frames:
 * myData - selected data from SAMASUNG training and test data 
 * myTidy - independent tidy data set with the average of each variable for each activity and each subject. 
 
-Script use sqldf librery
+Script uses sqldf librery
