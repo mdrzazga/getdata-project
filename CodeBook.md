@@ -1,6 +1,6 @@
 Lis of variables:
 
-  1.subject
+  1. subject
   2. activity
   3. tBodyAcc_mean_X_avg
   4. tBodyAcc_mean_Y_avg
