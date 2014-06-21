@@ -7,7 +7,11 @@ Merges the training and the test sets and extracts only the measurements on the 
 Creates a independent tidy data set with the average of each variable for each activity and each subject. 
 
 We kept the names and significance of the original data. For details, refer to the document features_info.txt contained in the original data set.
-We use descriptive activity names to name the activities in the data set according to oryginal activity labels
+We use descriptive activity names to name the activities in the data set according to oryginal activity labels.
+In new data set we added sufix "_avg" for every agregeted variable name.
+
+Automatic procedure for preparation of the described set is contained in the script R run_analysis.R (details in the comments). 
+Instructions on how to obtain a set of original data is located in the file README.md.
 
 
 Lis of variables:
