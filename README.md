@@ -11,4 +11,9 @@ Script produces two data frames:
 * myData - selected data from SAMASUNG training and test data 
 * myTidy - independent tidy data set with the average of each variable for each activity and each subject. 
 
+For more lecture-4/slied-16 friendly names use:
+ 
+ colnames(myTidy) <-gsub("^t","",gsub("^f","fft",gsub("_","-",tolower(colnames(myTidy)))))
+
+
 Script uses sqldf library.
